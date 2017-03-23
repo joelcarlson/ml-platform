@@ -1,0 +1,7 @@
+id	journal_name	jcr_category	jcr_rank	jcr_quartile	publisher	issn	eissn	jif
+0	PHYSICS IN MEDICINE AND BIOLOGY	radiology;medical imaging	1/20;25/26	Q1;Q5	Applesauceland publishing	1002-1234	1002-4312	1.72
+1	MEDICAL PHYSICS	radiology	2/20	Q1	Applesauceland publishing	1002-123	1002-4	3.2
+2	JOURNAL OF HAPPINESS STUDIES	psychology;marketing	1/20;25/26	Q1;Q4	magicalthings	1002-1234	1002-4312	1.72
+3	PYSCHOLOGICAL SCIENCE	psychology;marketing	12/20;12/26	magicalthings	Q3;Q2	1002-1234	1002-4312	1.72
+4	SCIENTOMETRICS	metrics	1/2	Q1	place	1235-1233	1234-1234	0.45
+5	IJJ (INTERNATIONAL JOURNAL OF JABBERWOCKY)	everything	1/1000	Q1	tum tum tree	0000-0000	000-0000	99
